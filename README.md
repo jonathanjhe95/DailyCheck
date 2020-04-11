@@ -1,0 +1,2 @@
+# DailyCheck
+Record recurring activities
